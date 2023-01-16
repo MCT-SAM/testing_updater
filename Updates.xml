@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>org.mittech.infolink</Name>
+  <RequiresAdminRights>true</RequiresAdminRights>
+  <DisplayName>InfoLink</DisplayName>
+  <Description>This is going to install InfoLink and setup your machine. </Description>
+  <Version>2.0.3</Version>
+  <ReleaseDate>2023-01-15</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="89763746" OS="Any" UncompressedSize="486965479"/>
+  <DownloadableArchives>FirebaseAdminTokenGenerator.7z,geometryloaders.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qmltooling.7z,Qt.7z,Qt5Compat.7z,QtMultimedia.7z,QtQml.7z,QtQuick.7z,QtQuick3D.7z,QtTest.7z,renderers.7z,renderplugins.7z,sceneparsers.7z,sqldrivers.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>4928602ab8be3e24116fac7818ac2265127ce4de</SHA1>
+ </PackageUpdate>
+ <SHA1>29d0e225b6f5c2d1b42c8556ec0331d321e54a9a</SHA1>
+ <MetadataName>2023-01-16-1603_meta.7z</MetadataName>
+</Updates>
